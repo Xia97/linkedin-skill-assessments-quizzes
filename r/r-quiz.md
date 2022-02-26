@@ -495,8 +495,8 @@ result <- lm(outcome ~ covariate + factor + covariate:factor, data = testcoef)
 
 `a <- list("10", TRUE, 5.6)`
 
-- [x] is.list(a[1])
-- [ ] is.numeric(a[1])
+- [ ] is.list(a[1])
+- [x] is.numeric(a[1])
 - [ ] is.logical(a[1])
 - [ ] is.character(a[1])
 
