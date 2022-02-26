@@ -486,10 +486,10 @@ result <- lm(outcome ~ covariate + factor + covariate:factor, data = testcoef)
 
 `x <- c(12L, 6L, 10L, 8L, 15L, 14L, 19L, 18L, 23L, 59L)`
 
-- [ ] numeric
+- [x] numeric
 - [ ] integer
 - [ ] single
-- [x] double
+- [ ] double
 
 #### Q49. A list named `a` is created using the statement below. Which choice returns TRUE?
 
